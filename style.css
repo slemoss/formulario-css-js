@@ -70,6 +70,7 @@ body{
 }
 
 .form button{
+    cursor: pointer;
     background-color: #fc00ff;
     border: 2px solid #00000036;
     color: #fff;
